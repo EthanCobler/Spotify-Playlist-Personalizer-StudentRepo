@@ -33,8 +33,8 @@ const playlistData = {
   // 🎵 VIBE 1: Replace "focus" with your first vibe name
   focus: [
     {
-      title: "Artist Name — Song Title", // Replace with your song
-      cover: "https://images.unsplash.com/photo-YOUR-IMAGE-URL", // Replace with your image URL
+      title: "Portraits of Tracy — The Party", // Replace with your song
+      cover: "https://m.media-amazon.com/images/I/51m9uVUKwEL._UX716_FMwebp_QL85_.jpg", // Replace with your image URL
     },
     {
       title: "Artist Name — Song Title", // Add your second song
